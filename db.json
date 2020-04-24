@@ -1,0 +1,535 @@
+{
+    "articles": [{
+            "author_name": "Mimi Mondal",
+            "large": "https://s01.sgp1.cdn.digitaloceanspaces.com/article/140357-ekwiqsvriu-1587628856.jpg",
+            "id": 960004,
+            "published": "2020-04-23T18:30:00+05:30",
+            "seo_title": "World Book Day reading: The end of a strange love affair in Mumbai",
+            "summary": "‘The Sea Sings at Night’, by Mimi Mondal, from ‘The Gollancz Book of South Asian Science Fiction’, edited by Tarun K Saint.",
+            "title": "World Book Day reading: The end of a strange love affair in Mumbai"
+        },
+        {
+            "author_name": "Scroll Staff",
+            "large": "https://s01.sgp1.cdn.digitaloceanspaces.com/article/140295-iotudvmvqx-1587643093.jpg",
+            "id": 959821,
+            "published": "2020-04-23T17:28:00+05:30",
+            "seo_title": "World Book Day reading: The end of a strange love affair in Mumbai",
+            "summary": "The Croatian’s title-winning performance also made him the only male player to win a Grand Slam singles crown as a wildcard entrant.",
+            "title": "Pause, rewind, play: Goran Ivanisevic's fairytale Wimbledon triumph and the eternal romance of sport"
+        },
+        {
+            "author_name": "Archana Garodia Gupta",
+            "large": "https://s01.sgp1.cdn.digitaloceanspaces.com/article/140351-mkenrjsjbz-1587620779.jpeg",
+            "id": 959999,
+            "published": "2020-04-23T15:30:00+05:30",
+            "seo_title": "World Book Day reading: The end of a strange love affair in Mumbai",
+            "summary": "An excerpt from ‘The Women Who Ruled India: Leaders. Warriors. Icons’, by Archana Garodia Gupta.",
+            "title": "World Book Day reading: How Farzana turned into Begum Samru, a dealmaker in the Mughal court"
+        },
+        {
+            "author_name": "Aditya Chaturvedi",
+            "large": "https://s01.sgp1.cdn.digitaloceanspaces.com/article/140311-navtgrlcvo-1587551431.jpg",
+            "id": 959970,
+            "published": "2020-04-23T14:30:00+05:30",
+            "seo_title": "World Book Day reading: The end of a strange love affair in Mumbai",
+            "summary": "With Roger Federer saying that it might be time for men’s and women’s tennis to be united, here’s a look at why women’s tennis went its own way.",
+            "title": "All about equal opportunity: How and why the WTA was established in 1973"
+        },
+        {
+            "author_name": "Ananya Bhattacharya, qz.com",
+            "large": "https://s01.sgp1.cdn.digitaloceanspaces.com/article/40539-qqhxetyvuk-1587550540.jpg",
+            "id": 959926,
+            "published": "2020-04-23T13:30:00+05:30",
+            "seo_title": "India’s Grofers, Big Basket may have to run for cover after Facebook-WhasApp-Reliance Jio deal",
+            "summary": "Both companies already have massive bases in the Indian market.",
+            "title": "Facebook-Reliance Jio deal: India’s online grocers may have to make space for new competition"
+        },
+        {
+            "author_name": "Sazid Ali",
+            "large": "https://s01.sgp1.cdn.digitaloceanspaces.com/article/140340-dmwygahgsa-1587574472.jpg",
+            "id": 959968,
+            "published": "2020-04-23T12:30:00+05:30",
+            "seo_title": "The Great Covid-19 Migrant Exodus: Miles separate government’s claims on relief from reality",
+            "summary": "Tracking the stories of two workers – one who stayed in Delhi and the other who returned home to Utttar Pradesh.",
+            "title": "The Great Covid-19 Migrant Exodus: Miles separate government’s claims on relief from reality"
+        },
+        {
+            "author_name": "Mustansir Dalvi",
+            "large": "https://s01.sgp1.cdn.digitaloceanspaces.com/article/140277-qfftlwftne-1587480965.jpg",
+            "id": 959850,
+            "published": "2020-04-23T12:30:00+05:30",
+            "seo_title": "The Art of Solitude: How Shirley Jackson’s ‘The Haunting of Hill House’ speaks to an architect",
+            "summary": "Is everything still plumb? So it seems, but oh! The lights have just gone out.",
+            "title": "The Art of Solitude: How Shirley Jackson’s ‘The Haunting of Hill House’ speaks to an architect"
+        },
+        {
+            "author_name": "Scroll Staff",
+            "large": "https://s01.sgp1.cdn.digitaloceanspaces.com/article/140340-dmwygahgsa-1587574472.jpg",
+            "id": 959927,
+            "published": "2020-04-23T11:34:00+05:30",
+            "seo_title": "Against all odds: Anil Kumble’s braveheart moment against the West Indies in 2002",
+            "summary": "The leg-spinner bowled 14 overs with his face swathed with bandages to hold the broken jaw against the West Indies in 2002.",
+            "title": "Against all odds: When even a fractured jaw couldn’t dent Anil Kumble’s remarkable spirit"
+
+        },
+        {
+            "author_name": "Sruthisagar Yamunan",
+            "large": "https://s01.sgp1.cdn.digitaloceanspaces.com/article/137708-fiftwomlzf-1583235420.jpg",
+            "id": 959985,
+            "published": "2020-04-23T10:11:00+05:30",
+            "seo_title": "Arrests in Delhi riots cases during Covid-19 lockdown are an egregious attempt to undermine liberty",
+            "summary": "Scores have been taken into custody by the Delhi Police under the instructions of the Union Home Ministry. ",
+            "title": "Delhi violence arrests: Courts must ensure police are not using lockdown to undermine basic rights"
+        },
+        {
+
+            "author_name": "Bhaswati Ghosh",
+            "large": "https://s01.sgp1.cdn.digitaloceanspaces.com/article/139063-qcdhnnrffi-1585330270.jpeg",
+            "id": 959976,
+            "published": "2020-04-23T10:11:00+05:30",
+            "seo_title": "Satyajit Ray’s ‘Two’ offers a lens on how the lockdown works differently for rich and poor kids",
+            "summary": "In India, social distancing has always meant physical distancing – with or without epidemics that come with prescriptive Lakshman rekhas.",
+            "title": "Satyajit Ray’s ‘Two’ offers a lens on how lockdowns work differently for rich and poor kids"
+        },
+        {
+            "author_name": "Scroll Staff",
+            "large": "https://s01.sgp1.cdn.digitaloceanspaces.com/article/140344-vbnueqfrtp-1587580705.jpg",
+            "id": 959941,
+            "published": "2020-04-23T09:38:00+05:30",
+            "seo_title": "Part II, IPL-style international T20 draft: Dhoni picked by NZ, de Villiers to WI, Chahal unpicked",
+            "summary": "Ten cricket writers participate in building an international T20 side with seven players from one country and four picks from a draft.",
+            "title": "Part II, mock international T20 draft: Dhoni goes to NZ, de Villiers bolsters WI, Chahal unpicked"
+        },
+        {
+
+            "author_name": "Vijayta Lalwani",
+            "large": "https://s01.sgp1.cdn.digitaloceanspaces.com/article/137398-sgucojzcpu-1587576775.jpg",
+            "id": 959952,
+            "published": "2020-04-22T14:30:00+05:30",
+            "seo_title": "Two months after Delhi violence, families struggle for food, compensation amid lockdown",
+            "summary": "At least 53 people died as a result of the violence. ",
+            "title": "Coronavirus: Two months after Delhi violence, victims struggle for food, compensation amid lockdown"
+        },
+        {
+
+            "author_name": "Mahtab Alam",
+            "large": "https://s01.sgp1.cdn.digitaloceanspaces.com/article/140330-rmqwxojejp-1587565241.jpg",
+            "id": 959956,
+            "published": "2020-04-23T08:30:00+05:30",
+            "seo_title": "Can Urdu regain its place in India’s linguistic landscape? Yes, if it is treated as a mother tongue",
+            "summary": "An excerpt from Mahtab Alam’s essay, ‘Is There a Future for Urdu?’, from ‘The Minority Conundrum: Living In Majoritarian Times’, edited by Tanweer Fazal.",
+            "title": "Can Urdu regain its place in India’s linguistic landscape? Yes, if it is treated as a mother tongue"
+        },
+        {
+
+            "author_name": "Girish Shahane",
+            "large": "https://s01.sgp1.cdn.digitaloceanspaces.com/article/139887-tyezwckspk-1586763435.jpg",
+            "id": 959938,
+            "published": "2020-04-22T14:30:00+05:30",
+            "seo_title": "Battling Covid-19 needs more than symbolism and scapegoating. But does Modi really have a strategy?",
+            "summary": "Good governance involves helping all citizens through the pause in activity and the economic contraction that is bound to follow.",
+            "title": "Battling Covid-19 needs more than symbolism and scapegoating. But does Modi really have a strategy?"
+
+        },
+        {
+            "author_name": "Sruthisagar Yamunan",
+            "large": "https://s01.sgp1.cdn.digitaloceanspaces.com/article/140151-rkhbiexdgs-1587263972.jpg",
+            "id": 959727,
+            "published": "2020-04-23T06:30:00+05:30",
+            "seo_title": "Fear of Covid-19 spread makes private hospitals turn away patients – or charge them higher bills",
+            "summary": "Private hospitals say they are facing a financial squeeze because of the effects of the pandemic.",
+            "title": "Fear of Covid-19 spread makes private hospitals turn away patients – or charge them higher bills"
+
+        },
+        {
+            "author_name": "Gwilym David Blunt, The Conversation",
+            "large": "https://s01.sgp1.cdn.digitaloceanspaces.com/article/56222-lwdwkpjnqw-1587470484.jpg",
+            "id": 959845,
+            "published": "2020-04-23T06:30:00+05:30",
+            "seo_title": "Covid-19: Why we must be wary of philanthropic givings by Bill Gates, Jeff Bezos, Jack Dorsey",
+            "summary": "The problem lies in the distribution of power between human beings.",
+            "title": "Why we must be wary of philanthropic contributions by Bill Gates, Jeff Bezos and other billionaires"
+        },
+        {
+            "author_name": "Roli Srivastava, Thomson Reuters Foundation",
+            "large": "https://d1u4oo4rb13yy8.cloudfront.net/article/34465-pbvnkevcru-1503284123.jpg",
+            "id": 959630,
+            "published": "2020-04-22T21:30:00+05:30",
+            "seo_title": "Covid-19 lockdown: India has listed abortion as an essential service, but problems of access persist",
+            "summary": "Overstretched health facilities have made it harder to get an abortion.",
+            "title": "India has listed abortion as an essential service, but problems of access persist under lockdown"
+
+        },
+        {
+            "author_name": "Maura Chhun, The Conversation",
+            "large": "https://s01.sgp1.cdn.digitaloceanspaces.com/article/77549-gonwlpajpm-1587294764.jpg",
+            "id": 959634,
+            "published": "2020-04-22T20:30:00+05:30",
+            "seo_title": "The British official’s apathy to the 1918 influenza strengthened India’s anti-colonial struggle",
+            "summary": "The British administration’s apathy helped foster an anti-colonial sentiment.",
+            "title": "The 1918 Spanish flu epidemic played a part in India’s freedom struggle"
+        },
+        {
+
+            "author_name": "Aarefa Johari",
+
+            "large": "https://s01.sgp1.cdn.digitaloceanspaces.com/article/139554-unufyploye-1586160185.jpg",
+
+            "id": 959764,
+            "published": "2020-04-21T09:00:00+05:30",
+
+            "seo_title": "Coronavirus delays: Why India’s health workers are still facing shortages of safety gear",
+            "summary": "The lockdown has compounded delays caused by lack of transparency.",
+            "title": "Coronavirus delays: Why India’s health workers are still facing shortages of safety gear"
+
+        },
+        {
+
+            "author_name": "Ashoke Mukhopadhyay",
+
+            "large": "https://s01.sgp1.cdn.digitaloceanspaces.com/article/140222-fzzjtucoii-1587382181.jpg",
+
+            "id": 959734,
+            "published": "2020-04-21T08:30:00+05:30",
+
+            "seo_title": "‘A Ballad Of Remittent Fever’: Three generations of doctors fight against epidemics in Calcutta",
+            "summary": "An excerpt from ‘A Ballad Of Remittent Fever’, a novel by Ashoke Mukhopadhyay.",
+            "title": "In this novel three generations of doctors fight against deadly epidemics in Calcutta"
+        },
+        {
+
+            "author_name": "Jean Drèze",
+
+            "large": "https://s01.sgp1.cdn.digitaloceanspaces.com/article/140238-qcubgdtgpy-1587394063.jpg",
+
+            "id": 959730,
+            "published": "2020-04-21T06:30:00+05:30",
+
+            "seo_title": "Cash to the poor is good – but will they be able to access it safely from banks? ",
+            "summary": "After the lockdown lifts, crowds outside banks are likely to swell as customers rush to withdraw small amounts of cash sent by the government.",
+            "title": "Cash to the poor is good – but will they be able to access it safely from banks? "
+        },
+        {
+
+            "author_name": "David Griffin and Justin Denholm, The Conversation",
+
+            "large": "https://d1u4oo4rb13yy8.cloudfront.net/article/kgdqfvrzcm-1490887588.jpg",
+
+            "id": 959645,
+            "published": "2020-04-20T23:30:00+05:30",
+
+            "seo_title": "Black Death, Spanish Influenza, HIV/AIDS and SARS hold lessons on dealing with Covid-19",
+            "summary": "Covid-19 is not the first global health crisis – and won’t be the last.",
+            "title": "Four pandemics that can offer us lessons on dealing with the novel coronavirus"
+        },
+        {
+
+            "author_name": "Alex Bitterman, The Conversation",
+            "large": "https://d1u4oo4rb13yy8.cloudfront.net/article/72144-nyemowvyqf-1509076536.jpg",
+            "id": 959637,
+            "published": "2020-04-20T21:30:00+05:30",
+            "seo_title": "To deal with the coronavirus pandemic, US must learn from its Cold War and World War II strategies",
+            "summary": "What the United States can learn from its World War II and Cold War strategies.",
+            "title": "In its fight against Covid-19, the US is missing its oldest ally: the American people"
+
+        }, {
+
+            "author_name": "Mayank Jain, Qz.com",
+            "large": "https://s01.sgp1.cdn.digitaloceanspaces.com/article/138578-gnswwtezbk-1586701601.jpg",
+            "id": 959952,
+            "published": "2020-04-23T09:30:00+05:30",
+            "seo_title": "As India Inc moves to ‘work from home’, automation will be key to tackle new challenges",
+            "summary": "Work roles that have highly repetitive tasks can be delegated to bots.",
+            "title": "As India Inc adjusts to remote working, automation can help tackle new challenges"
+
+        },
+        {
+
+            "author_name": "Nicolai Nayak",
+            "large": "https://s01.sgp1.cdn.digitaloceanspaces.com/article/140096-metuzdetsj-1587119799.jfif",
+            "id": 959486,
+            "published": "2020-04-23T19:53:00+05:30",
+            "seo_title": "Armando Colaco interview: Indian clubs don’t have faith in local football coaches",
+            "summary": "Colaco, the only coach to win five national league titles, received plaudits for introducing a possession-based style when it was rare in Indian football.",
+            "title": "Armando Colaco interview: Indian clubs don’t have faith in local football coaches"
+        },
+        {
+
+            "author_name": "Disha Shetty, IndiaSpend.com",
+            "large": "https://s01.sgp1.cdn.digitaloceanspaces.com/article/139952-rvyvvdulgs-1586865965.jpg",
+            "id": 959873,
+            "published": "2020-04-24T06:30:00+05:30",
+            "seo_title": "Covid-19: Deaths of low-risk youngsters poses a new challenge for health authorities in India",
+            "summary": "Our understanding of how the novel coronavirus affects different demographics is still evolving.",
+            "title": "Covid-19: Deaths of low-risk youngsters pose a new challenge for health authorities in India"
+
+        }, {
+
+            "author_name": "Scroll Staff",
+            "large": "https://d1u4oo4rb13yy8.cloudfront.net/article/zrqenwgfvv-1534917365.jpg",
+            "id": 959588,
+            "published": "2020-04-19T03:38:00+05:30",
+            "seo_title": "#ReadInstead litfest | In conversation with ‘The CEO Factory’ author Sudhir Sitapati",
+            "summary": "The #ReadInstead litfest has been organised by Juggernaut in association with Scroll.in.",
+            "title": "#ReadInstead litfest | In conversation with ‘The CEO Factory’ author Sudhir Sitapati"
+
+        }, {
+
+            "author_name": "Scroll Staff",
+            "large": "https://s01.sgp1.cdn.digitaloceanspaces.com/article/140209-tsdwkbzhsi-1587365853.jpeg",
+            "id": 959798,
+            "published": "2020-04-21T13:36:00+05:30",
+            "seo_title": "Pause, rewind, play: How Premchand Degra became India’s very own Arnold Schwarzenegger",
+            "summary": "Degra earned the Mr Universe title in 1988 to elevate the status of Indian bodybuilding.",
+            "title": "Pause, rewind, play: How Premchand Degra became India’s very own Arnold Schwarzenegger"
+        }, {
+
+            "author_name": "Devarsi Ghosh",
+
+            "large": "https://s01.sgp1.cdn.digitaloceanspaces.com/article/140177-bcicnhebwn-1587301298.jpeg",
+
+            "id": 898374,
+            "published": "2018-10-17T23:30:00+05:30",
+
+            "seo_title": "Oh Wonder interview: British pop duo discuss their career, new single Lonely Star, and more",
+            "summary": "The duo will be performing for Vh1 India’s ‘Quaratunes’ series of digital concerts on April 20.",
+            "title": "‘Maybe we just got happier’: British duo Oh Wonder on their career ahead of Indian digital concert"
+
+        }, {
+
+            "author_name": "Bubla Basu",
+
+
+            "large": "https://s01.sgp1.cdn.digitaloceanspaces.com/article/140185-kgnrxnbvqp-1587309567.jpg",
+
+            "id": 959599,
+            "published": "2020-04-20T11:30:00+05:30",
+
+            "seo_title": "The Art of Solitude: Why it’s time to re-read Jerry Pinto’s Em and The Big Hoom",
+            "summary": "Em is the dissolute, raving star of the story – deliciously irreverent, feisty, self-destructive and cruel in her madness.",
+            "title": "The Art of Solitude: Jerry Pinto’s ‘Em and The Big Hoom’ is an unforgettable trial by fire"
+        },
+        {
+            "author_name": "Rohan Venkataramakrishnan",
+            "large": "https://s01.sgp1.cdn.digitaloceanspaces.com/article/140195-csyzqxpyho-1587348867.jpg",
+            "id": 959647,
+            "published": "2020-04-20T10:11:00+05:30",
+            "seo_title": "The Political Fix: Does India have the money and the means to deliver a Basic Income? ",
+            "summary": "A weekly newsletter on Indian policy and politics from Scroll.in.",
+            "title": "The Political Fix: Does India have the money and means to deliver a Basic Income to poor citizens?"
+        },
+        {
+            "author_name": "Devarsi Ghosh",
+            "large": "https://s01.sgp1.cdn.digitaloceanspaces.com/article/139888-blmoarfzpv-1586764194.jpeg",
+            "id": 940890,
+            "published": "2019-10-28T08:00:00+05:30",
+            "seo_title": "Mame Khan interview: Rajasthani folk singer talks Chaudhary, Kesariya Balam, and Manganiyar history",
+            "summary": "The Rajasthani folk singer of ‘Chaudhary’ fame has been dealing with the coronavirus lockdown through digital concerts.",
+            "title": "The key to keeping folk music alive? ‘Respect time and move with it’, says Mame Khan"
+        },
+        {
+            "author_name": "Zenia D'Cunha",
+            "large": "https://s01.sgp1.cdn.digitaloceanspaces.com/article/140198-ulttaeepta-1587356819.jpg",
+            "id": 959668,
+            "published": "2020-04-20T09:57:00+05:30",
+            "seo_title": "Bridging the gap: Jemimah Rodrigues on how India can win elusive World Cup title",
+            "summary": "The teen’s assessment of the recent T20 World Cup final defeat reflects a maturity far beyond her age, a trait she possessed long before her India debut.",
+            "title": "Bridging the gap: Jemimah Rodrigues on how India can win elusive World Cup title"
+        },
+        {
+            "author_name": "Ipsita Chakravarty",
+            "large": "https://s01.sgp1.cdn.digitaloceanspaces.com/article/140193-opvpxcqjkw-1587319129.jpg",
+            "id": 959716,
+            "published": "2020-04-22T14:30:00+05:30",
+            "seo_title": "Covid-19: Red light areas across the country are reeling under the strict lockdown",
+            "summary": "Restrictions are harsher in these districts, but the government provides no additional support. It has abandoned its role to NGOs and civil society.",
+            "title": "‘With HIV, we had protection. What to do now?’: Covid lockdown takes toll on India’s red light areas"
+        },
+        {
+            "author_name": "Jishnu Das",
+            "large": "https://s01.sgp1.cdn.digitaloceanspaces.com/article/139747-daloyuqlum-1587207591.jpg",
+            "published": "2020-04-20T07:30:00+05:30",
+            "id": 959554,
+            "seo_title": "Covid-19: India should consider spatially targeted risk stratification as approach to exit lockdowon",
+            "summary": "Stricter restrictions could be retained in places with a larger group of older people or those with severe medical conditions.",
+            "title": "As India considers how to exit lockdown, ‘risk stratification’ approach may offer solution"
+        },
+        {
+            "author_name": "Srinivas Reddy",
+            "large": "https://s01.sgp1.cdn.digitaloceanspaces.com/article/140176-czbtyktvvl-1587299930.jpeg",
+            "id": 956879,
+            "published": "2020-04-20T07:30:00+05:30",
+            "seo_title": "Leadership lessons from South India’s ‘greatest king’, Krishnadevaraya of Vijayanagara",
+            "summary": "The king’s life and wisdom are timely reminders of how one charismatic leader can shape a dynamic world, writes his biographer Srinivas Reddy.",
+            "title": "Leadership lessons from South India’s ‘greatest king’, Krishnadevaraya of Vijayanagara"
+        },
+        {
+
+            "author_name": "Gokul S Prabhu",
+
+            "large": "https://s01.sgp1.cdn.digitaloceanspaces.com/article/140097-tllvcskegm-1587119829.jpg",
+
+            "id": 955507,
+            "published": "2020-03-08T17:30:00+05:30",
+            "seo_title": "Onaiza Drabu: ‘Storytelling isn’t a tradition in Kashmir, the way we communicate is through stories’",
+            "summary": "An interview with Onaiza Drabu, who retells the folklore of Kashmir in her book ‘The Legend of Himal and Nagrai and Other Stories’.",
+            "title": "‘Storytelling is not a tradition in Kashmir. The way we communicate is through stories’"
+        },
+        {
+            "author_name": "Dinyar Patel",
+            "large": "https://d1u4oo4rb13yy8.cloudfront.net/article/9ad74f34-2a85-43cf-95e2-de3822bcd18b.jpg",
+            "id": 959716,
+            "published": "2020-04-22T14:30:00+05:30",
+            "seo_title": "Epidemics change the course of nations and transform societies. Here are four lessons from history",
+            "summary": "The past is no recipe for the future – but it can suggest what to expect.",
+            "title": "Epidemics change the course of nations and transform societies. Here are four lessons from history"
+        },
+        {
+            "author_name": "Harsh Mander",
+            "large": "https://s01.sgp1.cdn.digitaloceanspaces.com/article/140139-jtvoqhigio-1587224074.jpg",
+            "id": 959259,
+            "published": "2020-04-19T06:30:00+05:30",
+            "seo_title": "Covid-19 lockdown: In Haryana’s Nuh, hungry residents are living off sporadic acts of charity",
+            "summary": "Shahnaz, a domestic helper, and her family do not know where their meals are coming from.",
+            "title": "In Haryana’s Nuh district, locked-down and hungry residents are living off sporadic acts of charity"
+        },
+        {
+            "author_name": "Gareth Williams, The Conversation",
+            "large": "https://s01.sgp1.cdn.digitaloceanspaces.com/article/139656-klsrjhdglp-1586956850.jpg",
+            "id": 959289,
+            "published": "2020-04-18T23:30:00+05:30",
+            "seo_title": "Covid-19: In another century, another disease had brought New York to a standstill",
+            "summary": "In 1918, a virus had brought panic, fear and huge pressure on healthcare.",
+            "title": "In another century, another disease had brought New York to a standstill"
+        },
+        {
+            "author_name": "Hannah le Roux, The Conversation",
+            "large": "https://s01.sgp1.cdn.digitaloceanspaces.com/article/139494-dbukhfoahc-1586078535.jpg",
+            "id": 958255,
+            "published": "2020-04-18T21:30:00+05:30",
+            "seo_title": "Four architectural designs from history to remember in a post-Covid-19 world",
+            "summary": "What we can learn from ancient Rome’s waterpoints and Beijing’s courtyard alleys.",
+            "title": "Four architectural designs from history to remember in a post-Covid-19 world"
+        },
+        {
+            "author_name": "Supriya Vohra",
+            "large": "https://s01.sgp1.cdn.digitaloceanspaces.com/article/139900-cagazsbdhm-1586779163.jpg",
+            "id": 959062,
+            "published": "2020-04-18T20:30:00+05:30",
+            "seo_title": "India’s Covid-19 lockdown has put 16 million fisherfolk out of business. Here’s how they’re coping",
+            "summary": "Fishermen and seafood exporters are also worried about the impending annual fishing ban during monsoon. ",
+            "title": "India’s lockdown has put 16 million fisherfolk out of business. Here’s how they’re coping"
+        },
+        {
+            "author_name": "Vijayta Lalwani",
+
+            "large": "https://s01.sgp1.cdn.digitaloceanspaces.com/article/140134-sfaluromwe-1587217328.jpeg",
+            "id": 959565,
+            "published": "2020-04-18T19:04:00+05:30",
+            "seo_title": "Watch: In North Delhi, a 2-km long food queue forms in peak afternoon sun",
+            "summary": "Food distress is acute among migrant and working-class families. ",
+            "title": "Watch: In Delhi, hungry people join a 2-km-long food queue in peak afternoon sun"
+        },
+        {
+            "author_name": "Scroll Staff",
+            "large": "https://s01.sgp1.cdn.digitaloceanspaces.com/article/140129-axdcsxdlfc-1587206324.jpg",
+            "id": 956468,
+            "published": "2020-04-18T18:00:00+05:30",
+            "seo_title": "Pause, rewind, play: Rahul Dravid and two brilliant speeches — words of wisdom from The Wall",
+            "series_id": 8,
+            "summary": "Part of what has made Dravid the legend he is today is his contributions to the game as a coach, as well as his articulate views on the game. ",
+            "title": "Pause, rewind, play: Words of wisdom from The Wall – two timeless lectures by Rahul Dravid"
+        },
+        {
+            "author_name": "Rabeea Saleem, Dawn.com",
+            "large": "https://s01.sgp1.cdn.digitaloceanspaces.com/article/42352-oqhgwwewrb-1586675841.jpg",
+            "id": 958953,
+            "published": "2020-04-18T17:30:00+05:30",
+            "seo_title": "Ian McEwan’s nod to Franz Kafka: A cockroach finds itself transformed into the UK’s Prime Minister",
+            "summary": "‘The Cockroach’ is a slapdash satire where the plot never becomes greater than the sum of its parts.",
+            "title": "Ian McEwan’s nod to Franz Kafka: A cockroach finds itself transformed into the UK prime minister"
+        },
+        {
+            "author_name": "Jaydeep Basu ",
+            "large": "https://s01.sgp1.cdn.digitaloceanspaces.com/article/140136-kghrqmouue-1587219469.jpg",
+            "id": 959527,
+            "published": "2020-04-18T15:00:00+05:30",
+            "seo_title": "From Dhyan Chand to Ashok Kumar: For Indian hockey’s most decorated family, a mixed bag of memories",
+            "summary": "Several members of the Dhyan Chand family have played hockey with distinction and have donned the national colours sometime or the other.",
+            "title": "Dhyan Chand to Ashok Kumar: For Indian hockey’s first family, the game left a bittersweet aftertaste"
+        },
+        {
+            "author_name": "Simran Agarwal, Sahapedia",
+            "large": "https://s01.sgp1.cdn.digitaloceanspaces.com/article/140088-byuzpdsqjw-1587111498.jpg",
+            "id": 959474,
+            "published": "2020-04-18T14:30:00+05:30",
+            "seo_title": "Western India’s Ragamala paintings blend music and art into a single frame",
+            "summary": "Each raga, and its derivatives, represents a specific mood, season or time of the day.",
+            "title": "Western India’s Ragamala paintings blend music and art into a single frame"
+        },
+        {
+            "author_name": "Nandini Ramnath",
+            "large": "https://s01.sgp1.cdn.digitaloceanspaces.com/article/139838-goovbxzspn-1586670983.jpg",
+            "id": 959425,
+            "published": "2020-04-18T13:30:00+05:30",
+            "seo_title": "Hasmukh review: Ranvir Shorey, Ravi Kishan are the standouts in Netflix show by Vir Das",
+            "summary": "Vir Das headlines a black comedy about a small-town comedian who takes extreme steps to achieve fame.",
+            "title": "‘Hasmukh’ review: Undone by its ambition but salvaged by sharp performances"
+        },
+        {
+            "author_name": "Lopa Ghosh",
+            "large": "https://s01.sgp1.cdn.digitaloceanspaces.com/article/140095-tyqgtrqcqh-1587119615.jpg",
+            "id": 959466,
+            "published": "2020-04-18T12:30:00+05:30",
+            "seo_title": "Will the post-pandemic world be a feminist one? The story ‘Sultana’s Dream’ may provide a template",
+            "summary": "Will the world change enough to undo the meanings of things as they have been manufactured historically? ",
+            "title": "Will the post-pandemic world be a feminist one? The story ‘Sultana’s Dream’ may provide a template"
+        },
+        {
+            "author_name": "Bina Sarkar Ellias",
+            "large": "https://s01.sgp1.cdn.digitaloceanspaces.com/article/140117-guroghowmh-1587146601.jpg",
+            "id": 959513,
+            "published": "2020-04-18T11:30:00+05:30",
+            "seo_title": "The Art of Solitude: The Knotted Gun sculpture inspires hope and a dream of non-violence",
+            "summary": "Carl Fredrik Reutersward created the sculpture ‘Non-Violence’ as a tribute to the murdered singer-songwriter John Lennon.",
+            "title": "The Art of Solitude: Through the sculpture of a knotted gun, imagine a world without violence"
+        },
+        {
+            "author_name": "Abhinash Borah",
+            "large": "https://s01.sgp1.cdn.digitaloceanspaces.com/article/140047-yuqtlfhztl-1587141391.jpg",
+            "id": 959413,
+            "published": "2020-04-18T10:30:00+05:30",
+            "seo_title": "Covid-19: As India battles a grave health and economic crisis, it must put humanity centrestage",
+            "summary": "If the pandemic leaves behind a large population that is unhealthy because of being deprived of subsistence, it will hurt India’s growth potential for years.",
+            "title": "As India battles a grave health and economic crisis, it must put humanity centrestage"
+        },
+        {
+            "author_name": "Abhijeet Kulkarni",
+            "large": "https://s01.sgp1.cdn.digitaloceanspaces.com/article/127822-hnesrapegf-1569211951.jpg",
+            "id": 959459,
+            "published": "2020-04-18T10:01:00+05:30",
+            "seo_title": "Indian boxing: Home remedies and diet tips aim to keep boxers in fine fettle during the lockdown",
+            "summary": "Team doctors and support staff are also looking to ensure that boxers don’t expose themselves to possible doping violations.",
+            "title": "Indian boxing: Home remedies and diet tips aim to keep boxers in fine fettle during the lockdown"
+        },
+        {
+            "author_name": "Arunabh Saikia",
+            "large": "https://s01.sgp1.cdn.digitaloceanspaces.com/article/140114-hefvekbvib-1587141529.jpg",
+            "id": 959520,
+            "published": "2020-04-18T09:00:00+05:30",
+            "seo_title": "Coronavirus delays: Why have rapid tests been slow to start in India?",
+            "summary": "Regulatory hurdles both within India and abroad are leading to mounting delays.",
+            "title": "Coronavirus delays: Why have rapid tests been slow to start in India?"
+        },
+        {
+            "author_name": "Ramachandra Guha",
+            "large": "https://s01.sgp1.cdn.digitaloceanspaces.com/article/140004-ypdxztbjsr-1586959697.jpg",
+            "id": 959293,
+            "published": "2020-04-18T08:30:00+05:30",
+            "seo_title": "From Asia Publishing to Permanent Black: Ramachandra Guha pays a tribute to editors and publishers",
+            "summary": "The scholar and writer makes his nominations to the publishing hall of fame.",
+            "title": "From Asia Publishing to Permanent Black: Ramachandra Guha pays a tribute to editors and publishers"
+        }
+    ]
+
+}
